@@ -1,5 +1,7 @@
 # My journey
 
+Sorry, my english isn't so good, that is my personal challenge ;D
+
 I started that project with the installation of Basic Kit on https://rnfirebase.io/docs/v5.x.x/installation/basic-kit
 
 After the git clone just follow the steps, but in the third step you must to go on firebase console (https://console.firebase.google.com/u/0/) to create a new project.
@@ -30,4 +32,5 @@ For each Auth method, is necessary to install on your project the respective lib
 https://codeburst.io/react-native-app-with-facebook-sdk-login-and-firebase-storage-606744701207 (to be honest, I didn't follow this link, i just read it)
 
 https://developers.facebook.com to get the App Id and Secret Key
+
 
